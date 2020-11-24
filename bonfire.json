@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -101,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"fb12-c4.json#exit-bonfire"
+                 "value":"fb12-c4.json#entry-bonfire"
                 }],
          "type":"tilelayer",
          "visible":true,
