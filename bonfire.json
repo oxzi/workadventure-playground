@@ -120,7 +120,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"fb12-c4.json#entry-bonfire"
+                 "value":"map.json#entry-bonfire"
                 }],
          "type":"tilelayer",
          "visible":true,
