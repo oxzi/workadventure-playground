@@ -1,6 +1,9 @@
 # Work Adventure Playground
 
-Maps for [WorkAdventure][workadventure], especially for the [rc3][rc3-howto].
+Maps for [WorkAdventure][workadventure], especially for the [rc3][rc3-howto]. Contains
+
+- a part of Uni Marburg's Mehrzweckgebäude area C4, and
+- a comfy bonfire place.
 
 
 ## Tiles
