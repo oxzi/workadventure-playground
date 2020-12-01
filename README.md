@@ -2,7 +2,8 @@
 
 Maps for [WorkAdventure][workadventure], especially for the [rc3][rc3-howto]. Contains
 
-- a part of Uni Marburg's Mehrzweckgebäude area C4, and
+- a part of Uni Marburg's Mehrzweckgebäude area C4,
+- the main rooms of the Hackspace Marburg, and
 - a comfy bonfire place.
 
 
