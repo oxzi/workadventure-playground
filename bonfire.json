@@ -120,7 +120,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entry-staircase"
+                 "value":"c4-fb12.json#entry-staircase"
                 }],
          "type":"tilelayer",
          "visible":true,
