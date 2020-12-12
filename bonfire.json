@@ -191,6 +191,54 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":80
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":112
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":144
+                        }],
+                 "id":128
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":81
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":113
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":145
+                        }],
+                 "id":129
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":82
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":114
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":146
+                        }],
+                 "id":130
+                }, 
+                {
                  "id":174,
                  "properties":[
                         {
