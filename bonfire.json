@@ -248,6 +248,19 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":83
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":115
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":147
+                        }],
                  "id":175,
                  "properties":[
                         {
@@ -257,6 +270,19 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":84
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":116
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":148
+                        }],
                  "id":176,
                  "properties":[
                         {
@@ -266,6 +292,19 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":85
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":117
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":149
+                        }],
                  "id":177,
                  "properties":[
                         {
