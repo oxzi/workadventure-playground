@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":7,
  "infinite":false,
  "layers":[
@@ -128,6 +135,70 @@
          "tilecount":1024,
          "tileheight":32,
          "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":2500,
+                         "tileid":166
+                        }, 
+                        {
+                         "duration":2500,
+                         "tileid":198
+                        }, 
+                        {
+                         "duration":2500,
+                         "tileid":230
+                        }],
+                 "id":166
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":2500,
+                         "tileid":167
+                        }, 
+                        {
+                         "duration":2500,
+                         "tileid":199
+                        }, 
+                        {
+                         "duration":2500,
+                         "tileid":231
+                        }],
+                 "id":167
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":2500,
+                         "tileid":168
+                        }, 
+                        {
+                         "duration":2500,
+                         "tileid":200
+                        }, 
+                        {
+                         "duration":2500,
+                         "tileid":232
+                        }],
+                 "id":168
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":2500,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":2500,
+                         "tileid":201
+                        }, 
+                        {
+                         "duration":2500,
+                         "tileid":233
+                        }],
+                 "id":169
+                }, 
                 {
                  "id":171,
                  "properties":[
