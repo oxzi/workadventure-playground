@@ -14,8 +14,9 @@
 - `floortileset.png`: Derived from the [template][workadventure-template].
 - `minideko.png`: [rc3 tiles][rc3-tiles]
 - `outside_b_shua_by_shuatinwe_dax6nc8.png`: Source is [ShuaTinwe on DeviantArt](https://www.deviantart.com/shuatinwe/art/Outside-B-Shua-660399272).
+- `rc3-mullana-objects.png`: [rc3 tiles][rc3-tiles]
 - `tilesets_deviant_milkian_1.png`: Derived from the [template][workadventure-template], source is [milkian on DeviantArt](https://www.deviantart.com/milkian/art/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743).
-- `worldExit.png`: [rc3 world exit tile][rc3-tiles]
+- `worldExit.png`: [rc3 tiles][rc3-tiles]
 
 
 [logogenerator]: https://logogenerator.rc3.world/
