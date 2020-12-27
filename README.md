@@ -2,7 +2,7 @@
 
 [Work Adventure][workadventure] maps, especially for the [rC3][rc3-howto]. Contains
 
-- main rooms of the Hackspace Marburg,
+- a vision of the Hackspace Marburg \[hsmr\],
 - a part of Uni Marburg's Mehrzweckgebäude area C4,
 - a comfy bonfire place, and finally
 - a lobby dispatching to the other maps.
@@ -19,7 +19,6 @@
 - `rc3-mullana-objects.png`: [rc3 tiles][rc3-tiles]
 - `scifi_space_rpg_tiles_lpcized_0.png`: Source is [LPC goes to space on OpenGameArt.org](https://opengameart.org/content/lpc-goes-to-space).
 - `tilesets_deviant_milkian_1.png`: Derived from the [template][workadventure-template], source is [milkian on DeviantArt](https://www.deviantart.com/milkian/art/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743).
-- `worldExit.png`: [rc3 tiles][rc3-tiles]
 
 
 [logogenerator]: https://logogenerator.rc3.world/
