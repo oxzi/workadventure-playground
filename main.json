@@ -115,7 +115,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_hsmr}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_hsmr}"
                 }],
          "type":"tilelayer",
          "visible":true,
