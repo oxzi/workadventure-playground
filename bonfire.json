@@ -150,7 +150,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"c4-fb12.json#entry-staircase"
+                 "value":"c4-fb12.json#start-bonfire"
                 }],
          "type":"tilelayer",
          "visible":true,

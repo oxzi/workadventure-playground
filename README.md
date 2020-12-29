@@ -3,9 +3,8 @@
 [Work Adventure][workadventure] maps, especially for the [rC3][rc3-howto]. Contains
 
 - a vision of the Hackspace Marburg \[hsmr\],
-- a part of Uni Marburg's Mehrzweckgebäude area C4,
-- a comfy bonfire place, and finally
-- a lobby dispatching to the other maps.
+- a part of Uni Marburg's Mehrzweckgebäude area C4, and
+- a comfy bonfire place.
 
 
 ## Tiles
