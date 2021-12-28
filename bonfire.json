@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -162,7 +155,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -173,6 +166,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventure template"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -186,6 +185,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"custom-tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY hsmr"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -395,6 +400,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"outside",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/www.deviantart.com\/shuatinwe\/art\/Outside-B-Shua-660399272"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1084,6 +1095,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world\/#"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1091,6 +1108,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":32
 }

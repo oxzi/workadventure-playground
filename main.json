@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":30,
  "infinite":false,
  "layers":[
@@ -241,7 +234,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_hsmr"
+                 "value":"world:\/\/lobby\/punchcard.json#start_hsmr"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -300,7 +293,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -311,6 +304,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"custom-tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY hsmr"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -541,6 +540,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1140,6 +1145,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world\/"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -1153,6 +1164,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world\/"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -1166,6 +1183,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world\/"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1179,6 +1202,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"scifi_space_rpg_tiles_lpcized_0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/opengameart.org\/content\/lpc-goes-to-space"
+                }],
          "spacing":0,
          "tilecount":112,
          "tileheight":32,
@@ -1319,6 +1348,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world\/"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1783,6 +1818,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":57
 }
